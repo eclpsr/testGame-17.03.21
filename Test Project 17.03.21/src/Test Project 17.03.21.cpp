@@ -38,6 +38,7 @@ int main()
 
         window.clear();
         //window.draw(newgame);
+
         window.display();
     }
 
